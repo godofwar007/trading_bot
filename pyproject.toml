@@ -1,0 +1,12 @@
+[project]
+name = "trading-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncio>=3.4.3",
+    "matplotlib>=3.10.1",
+    "python-telegram-bot>=22.0",
+    "websockets>=15.0.1",
+]
